@@ -113,12 +113,11 @@ input, select, textarea {
 		color: #4fc3f7;
 		text-decoration: none;
 	}
-
-		a:hover {
+			a:hover {
 			border-bottom-color: transparent;
 			color: #4fc3f7 !important;
-			text-decoration: none;
 		}
+
 
 	strong, b {
 		color: #787878;
@@ -152,7 +151,7 @@ input, select, textarea {
 	}
 
 	h2 {
-		font-size: 1.5em;
+		font-size: 1.6em;
 		line-height: 1.5em;
 	}
 
@@ -162,6 +161,11 @@ input, select, textarea {
 	}
 
 	h4 {
+		font-size: 1.1em;
+		line-height: 1.5em;
+	}
+
+	p {
 		font-size: 1.1em;
 		line-height: 1.5em;
 	}
@@ -2176,11 +2180,11 @@ input, select, textarea {
 		}
 
 		.skills-list li {
-			padding: 0 0.5em;
+			padding: 0 0.7em;
 			display: inline-block;
 			background: whitesmoke;
 			margin: 0.25em 0.5em;
-			color:black;
+			color: #4a4a4a;
 		}
 
 		ul.alt {
@@ -2717,6 +2721,7 @@ input, select, textarea {
 				padding-top: 0;
 				text-align: justify
 			}
+			
 
 /* Poptrox */
 
